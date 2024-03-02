@@ -1,11 +1,11 @@
 ![Project Logo](./godot/assets/godot-ferris-128x128.png)
 
-# {{ravenman}}
+# ravenman
 > FLOSS roguelike &amp; roguelite game game implementation in Rust for cross platform devices.
 > This game is similar to [Ravengate](https://gitlab.com/ygingras/revengate). This game is powered by the godot engine.
 
 ## Table of contents
-- [{{ravenman}}](#ravenman)
+- [ravenman](#ravenman)
   - [Table of contents](#table-of-contents)
   - [General Information](#general-information)
   - [Setup](#setup)
