@@ -15,4 +15,3 @@ current = true
 [node name="SpinningCube" parent="." instance=ExtResource( 2 )]
 mesh = SubResource( 1 )
 material/0 = null
-base/rotate_speed = 1.0
