@@ -15,10 +15,10 @@ _global_script_class_icons={
 
 [application]
 
-config/name="{{project-name}}"
-run/main_scene="res://scenes/Game.tscn"
+config/name="ravenman"
 config/icon="res://assets/godot-ferris-32x32.png"
 
 [rendering]
 
+quality/driver/driver_name="GLES2"
 environment/default_environment="res://default_env.tres"
