@@ -1,7 +1,7 @@
 [package]
-name = "{{crate_name}}"
+name = "ravenman"
 version = "0.1.0"
-authors = ["{{authors}}"]
+authors = ["Shervin"]
 edition = "2021"
 
 [lib]
